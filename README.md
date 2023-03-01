@@ -1,6 +1,6 @@
 ### What I'm interested in
 
-- Cloud-native systems (Kubernetes)
+- Container-Orchestration (Kubernetes)
 
 - Public cloud services (AWS)
 
