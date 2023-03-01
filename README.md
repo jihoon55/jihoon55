@@ -1,16 +1,18 @@
-### Hi there 👋
+### 👋 Hi there! I'm preparing to become a devops engineer
 
-<!--
-**jihoon55/jihoon55** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+What I'm interested in
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Cloud-native systems (Kubernetes)
+
+- Public cloud services (AWS)
+
+- Microservices Architecture (MSA)
+
+- Infrastructure as code (Terraform)
+ 
+Capabilities
+
+<img src="https://user-images.githubusercontent.com/118710033/222036332-0f35f947-7ef4-4d8a-b223-48990eda0176.png"  width="100" height="100"/> <img src="https://user-images.githubusercontent.com/118710033/222035821-b18cb7c4-8a1c-47b3-8c99-ef9f9e3ac47d.png"  width="100" height="100"/>
+
+
