@@ -1,5 +1,5 @@
 ### 🙋‍♂️ 안녕하세요
-효율적인 운영환경과 편리한 서비스를 제공하기 위해 함께 고민하고 해결하는 DevOps Engineer 지망생입니다.
+효율적인 운영환경과 편리한 서비스를 위해 고민하고 해결하는 DevOps Engineer 지망생입니다.
 
 <br/>
 
@@ -7,6 +7,8 @@
 <img src="https://img.shields.io/badge/Amazone Web Service-232F3E?style=flat-square&logo=Amazone Web Service&logoColor=white"><img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=white">
 <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white">
 <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=Kubernetes&logoColor=white">
+
+
 <img src="https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=Terraform&logoColor=white">
 <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"> <img src="https://img.shields.io/badge/GitHub Actions-2088FF?style=flat-square&logo=GitHub Actions&logoColor=white">
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"> 
