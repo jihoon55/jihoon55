@@ -3,8 +3,6 @@
 * 블로그, 깃허브 등 꾸준한 기록 활동을 통해 꾸준함을 증명할 수 있습니다.
 * 모르는 것을 빠르게 질문하고, 자신의 의견을 드러내는 것에 불편함이 없습니다.
 
-<br/>
-
 ### 👀 Skills 
 <img src="https://img.shields.io/badge/Amazone Web Service-232F3E?style=flat-square&logo=Amazone Web Service&logoColor=white"> <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=white">
 <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white">
